@@ -180,7 +180,7 @@ Type your situation, get an explanation.
 
 ## Author
 
-**Built by Sisto** - First-year law student at Taft Law School with background in cybersecurity and 10 years crisis counseling experience.
+**Built by Sisto** - First-year law student at Taft Law School with background in cybersecurity.
 
 This project combines:
 - **Legal education** (understanding what people need explained)
