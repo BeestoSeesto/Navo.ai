@@ -1,3 +1,12 @@
+> [!WARNING]
+> ### **LEGAL DISCLAIMER**
+> **Navo.ai is a legal logic engine built for educational and informational purposes only.** > I am a JD student, not a licensed attorney. Navo.ai is **not** a law firm and does not provide legal advice. Use of this tool does not create an attorney-client relationship. Always consult a licensed attorney for official legal representation.
+
+> [!IMPORTANT]
+> **Beta Release Notice:** This project is currently in a "Limited Open Beta" for 7 days. On [Insert Date], this repository will move to a private license to begin professional refinements.
+
+© 2026 Navo.ai | All Rights Reserved.
+
 # Navo - Legal Situation Explainer
 
 **Help people understand confusing legal situations in plain English — without giving legal advice.**
